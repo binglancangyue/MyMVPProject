@@ -21,7 +21,7 @@ public class ComicModelImpl implements ContractComic.ComicModel {
             strings.add("hello");
             strings.add("World");
             strings.add("hello");
-
+            strings.add("hello");
             strings.add("hello");
             strings.add("World");
             strings.add("hello");
